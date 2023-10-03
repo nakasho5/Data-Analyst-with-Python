@@ -9,4 +9,4 @@ As you progress through the courses, you’ll cover topics such as data manipula
 Get started today, grow your Python skills, and begin your journey to becoming a confident data analyst.
 
 # Certificate
-![]()
+![](https://github.com/nakasho5/Data-Analyst-with-Python/blob/main/Data%20Analyst%20with%20Python%20Certificate.png)
